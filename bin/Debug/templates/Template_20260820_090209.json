@@ -1,0 +1,27 @@
+﻿{
+    "command_type": "MissionByPlan",
+    "mission_id": "MissionID2",
+    "mission_plan": [
+        {
+            "type": "recipe",
+            "value": "Recipe_A"
+        },
+        {
+            "type": "recipe",
+            "value": "Recipe_B"
+        },
+        {
+            "type": "station",
+            "value": "point_C"
+        },
+        {
+            "type": "action",
+            "value": "transfer",
+            "parameters": {
+                "source": "pos_001",
+                "dest": "pos_002",
+                "carrier_id": "object_001"
+            }
+        }
+    ]
+}

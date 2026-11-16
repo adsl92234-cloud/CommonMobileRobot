@@ -1,0 +1,370 @@
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.SuggestedBindingRedirects.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.UI.resources
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\bin\Debug\AML_LogControl.dll
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.dll
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.xml
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.UI.resources
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CopyComplete
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\bin\Debug\MySql.Data.dll
+D:\AML\AI cobot\CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csprojAssemblyReference.cache
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.dll
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.xml
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe.config
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.UI.resources
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+D:\WF\20260908_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.dll
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.xml
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe.config
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.UI.resources
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+D:\7.MR\20260909_CommonMobileRobot\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.dll
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.xml
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe.config
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.UI.resources
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+D:\7.MR\mr\20260909_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe.config
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.UI.resources
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.dll
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.xml
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.AGVMapControl.resources
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.MR.MRCycleRun.resources
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+D:\7.MR\mr\0918\20260918_CommonMobileRobot\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.dll
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.xml
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe.config
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.AGVMapControl.resources
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.MR.MRCycleRun.resources
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.UI.resources
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+D:\7.MR\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.dll
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\MQTTnet.xml
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe.config
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.AGVMapControl.resources
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.MR.MRCycleRun.resources
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\AML.UI.resources
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+D:\GPM AGV\Projects\TSMC\mr_2\mr\20260922_CommonMobileRobot\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.SuggestedBindingRedirects.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\AGVMap.AGVMapControl.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\CommonMobileRobot.MR.MRCycleRun.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\AML.UI.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\bin\Debug\MQTTnet.dll
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\bin\Debug\MQTTnet.xml
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CopyComplete
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.08\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\bin\Debug\MQTTnet.dll
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\bin\Debug\MQTTnet.xml
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.SuggestedBindingRedirects.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\AGVMap.AGVMapControl.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.MR.MRCycleRun.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\AML.UI.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CopyComplete
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261009.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.SuggestedBindingRedirects.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\AGVMap.AGVMapControl.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\CommonMobileRobot.MR.MRCycleRun.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\AML.UI.resources
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\bin\Debug\MQTTnet.dll
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\bin\Debug\MQTTnet.xml
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CopyComplete
+D:\TCLINZZG\Project\10.AI Cobot\4.code\CommonMobileRobot\CommonMobileRobot 20261010.07\CommonMobileRobot\obj\Debug\MobileRobot.MRControl.resources
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\bin\Debug\MQTTnet.dll
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\bin\Debug\MQTTnet.xml
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe.config
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\AGVMap.AGVMapControl.resources
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\MobileRobot.MRControl.resources
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.MR.MRCycleRun.resources
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\AML.UI.resources
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+C:\Users\MyUser\Desktop\CommonMobileRobot 20261015.09\CommonMobileRobot 20261015.09\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\bin\Debug\MQTTnet.dll
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\bin\Debug\MQTTnet.xml
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\AGVMap.AGVMapControl.resources
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\MobileRobot.MRControl.resources
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\CommonMobileRobot.MR.MRCycleRun.resources
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\AML.UI.resources
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+C:\Users\adsl9\OneDrive\Desktop\AML\Code\CommonMobileRobot 20261015.18\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\bin\Debug\MQTTnet.dll
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\bin\Debug\MQTTnet.xml
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\AGVMap.AGVMapControl.resources
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\MobileRobot.MRControl.resources
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\CommonMobileRobot.MR.MRCycleRun.resources
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\AML.UI.resources
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+C:\AML\code\CommonMobileRobot 20261025.17\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\bin\Debug\MQTTnet.dll
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\bin\Debug\MQTTnet.xml
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\AGVMap.AGVMapControl.resources
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\MobileRobot.MRControl.resources
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\CommonMobileRobot.MR.MRCycleRun.resources
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\AML.UI.resources
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+C:\AML\code\CommonMobileRobot 20261026.0\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\bin\Debug\MQTTnet.dll
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\bin\Debug\MQTTnet.xml
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\obj\Debug\AGVMap.AGVMapControl.resources
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\obj\Debug\MobileRobot.MRControl.resources
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\obj\Debug\AML.UI.resources
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+C:\AML\code\CommonMobileRobot 20261026.1\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\obj\Debug\AGVMap.AGVMapControl.resources
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\obj\Debug\MobileRobot.MRControl.resources
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\obj\Debug\AML.UI.resources
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\bin\Debug\MQTTnet.dll
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\bin\Debug\MQTTnet.xml
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+C:\AML\code\CommonMobileRobot 20261101.21\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\bin\Debug\MQTTnet.dll
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\bin\Debug\MQTTnet.xml
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\obj\Debug\AGVMap.AGVMapControl.resources
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\obj\Debug\AML.MQTT.resources
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\obj\Debug\MobileRobot.MRControl.resources
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\obj\Debug\AML.UI.resources
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+C:\AML\code\CommonMobileRobot 20261101.23\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe.config
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\bin\Debug\CommonMobileRobot.exe
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\bin\Debug\CommonMobileRobot.pdb
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\bin\Debug\MQTTnet.dll
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\bin\Debug\Newtonsoft.Json.dll
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\bin\Debug\MQTTnet.xml
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\bin\Debug\Newtonsoft.Json.xml
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.AssemblyReference.cache
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\obj\Debug\AGVMap.AGVMapControl.resources
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\obj\Debug\AML.CoreControl.resources
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\obj\Debug\AML.WT_MsgBox.resources
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\obj\Debug\MobileRobot.MRControl.resources
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\obj\Debug\CommonMobileRobot.Properties.Resources.resources
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\obj\Debug\AML.UI.resources
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.GenerateResource.cache
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\obj\Debug\CommonMobileRobot.csproj.CoreCompileInputs.cache
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\obj\Debug\CommonMo.1D7B9E70.Up2Date
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\obj\Debug\CommonMobileRobot.exe
+C:\AML\code\CommonMobileRobot 20261108.20\CommonMobileRobot\obj\Debug\CommonMobileRobot.pdb

@@ -1,0 +1,31 @@
+<Setting>
+  <Form1>
+    <Logfolder value="C:\\AML" />          <!-- Log 根目錄 -->
+    <LogCountLimit value="200" />          <!-- 單一 Log 檔最大筆數 -->
+    <LogFolderLimit value="30" />          <!-- Log 資料夾保留數量 -->
+  </Form1>
+  <AlarmPage>
+
+  </AlarmPage>
+  <AGVMap>
+    <MapPath value="GT_Map1110.txt" />    <!-- 預設地圖檔 -->
+    <MmPerPixel value="30" />             <!-- 地圖解析度 (mm/pixel) -->
+    <SafeMargin value="10" />             <!-- 車體外擴安全距離 (mm) -->
+    <MrLength value="940" />              <!-- 車體長度，前進方向 (mm) -->
+    <MrWidth value="510" />               <!-- 車體寬度，側向 (mm) -->
+    <RefOffsetX value="100" />              <!-- 參考點相對車體中心偏移 (mm)，+ = 車頭前方 -->
+    <RefOffsetY value="0" />              <!-- 參考點相對車體中心偏移 (mm)，+ = 車頭右側 -->
+  </AGVMap>
+  <MQTT>
+    <Broker value="127.0.0.1" />          <!-- MQTT Broker IP -->
+    <Port value="1883" />                 <!-- MQTT Port -->
+    <ClientId value="AML_TEST1" />        <!-- MQTT Client ID -->
+    <Username value="" />                 <!-- 帳號 (空白 = 不驗證) -->
+    <Password value="" />                 <!-- 密碼 -->
+  </MQTT>
+  <UR_Robot>
+    <ListenIP value="0.0.0.0" />           <!-- Socket Server 監聽 IP -->
+    <Port value="5000" />                  <!-- Socket Server Port -->
+    <TimeOut value="60" />                 <!-- 指令逾時 (秒)，從送出 Cmd 開始計時 -->
+  </UR_Robot>
+</Setting>
